@@ -1,0 +1,10 @@
+{
+  "Rizq": ["Ar-Razzaq", "Al-Mughni", "Al-Khaliq", "Al-Wahhab", "Al-Ghani"],
+  "Health": ["Ash-Shafi", "Al-Qawi", "Al-Hayy", "Al-Qadeer", "Ar-Rahman"],
+  "Marriage": ["Al-Wadud", "Ar-Raheem", "Al-Lateef", "Al-Jami'"],
+  "Exams": ["Al-'Aleem", "Al-Hakeem", "Al-Fattah", "Ar-Rashid"],
+  "Anxiety": ["Al-Muhaymin", "As-Salam", "Al-Ghaffar", "Al-Qayyum", "Al-Latif", "Ar-Raheem"],
+  "Forgiveness": ["Al-Ghaffar", "At-Tawwab", "Al-Afuw", "Al-Haleem"],
+  "Guidance": ["Al-Hadi", "Ar-Rashid", "Al-Basir", "Al-Fattah"],
+  "Protection": ["Al-Hafiz", "Al-Muhaymin", "Al-Qawiyy", "Al-Mateen", "Al-Jabbar", "Al-Mu'min"]
+}
