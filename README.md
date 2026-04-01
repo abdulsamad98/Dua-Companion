@@ -2,7 +2,7 @@
 
 **A gentle assistant for Islamic supplication**
 
-Dua Companion helps you organize and structure your duʿāʾ (supplications) with proper adab (etiquette), following authentic Islamic practices.
+
 
 ## Features
 
