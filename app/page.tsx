@@ -2545,7 +2545,7 @@ wa athiq bi-ka thiqatan kamilatan`,
             <div className="text-center mb-12 animate-fadeIn">
               {/* Welcome Title */}
               <h1 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-4">
-                Welcome to Dua Friend
+                Welcome to Dua Companion
               </h1>
 
               {/* Subtitle */}
